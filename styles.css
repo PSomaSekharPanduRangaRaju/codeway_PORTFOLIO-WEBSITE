@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.tagline {
+    font-style: italic;
+}
+
+section {
+    margin: 20px;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    
+}
+
+.bio {
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+#skills li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#projects .project {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+ 
+    bottom: 0;
+    width: 100%;
+}
